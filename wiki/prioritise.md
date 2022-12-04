@@ -1,0 +1,1 @@
+- Kano model can be applied to all kinds of queues.
