@@ -1,0 +1,1 @@
+- [Complete rewrite of ESLint](https://github.com/eslint/eslint/discussions/16557 "Complete rewrite of ESLint")
