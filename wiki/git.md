@@ -1,1 +1,2 @@
-An atomic commit’s message is easily ≤ 50 chars
+- An atomic commit’s message is easily ≤ 50 chars
+- An atomic commit makes git revert concise
