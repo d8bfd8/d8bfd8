@@ -1,1 +1,2 @@
 - Best motivation is fun
+- Let’s fail it or unfortunately succeed
