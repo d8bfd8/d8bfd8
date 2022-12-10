@@ -1,0 +1,3 @@
+- little automation skill leads to high automation effort
+- high automation effort leads to lack of automation willingness
+- lack of automation willingness leads to little automation skill
