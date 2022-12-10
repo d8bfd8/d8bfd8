@@ -1,0 +1,1 @@
+- Choose an email provider with less services so you get less spams for their services
