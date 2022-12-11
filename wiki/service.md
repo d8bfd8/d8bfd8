@@ -1,1 +1,2 @@
 - Choose an email provider with less services so you get less spams for their services
+- Choose a service provider that allows backup, and backup regularly
