@@ -1,0 +1,3 @@
+- Handle error at the boundry.
+- Mixing return error and throw in a function makes handling difficult.
+- Use a white list to handle error, re-throw unknown errors
