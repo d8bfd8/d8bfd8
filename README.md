@@ -150,6 +150,6 @@ Bachelor of Science in Computer Science, 2010
 
 To contact me, please [create an issue][3].
 
-[1]: https://www.youtube.com/watch?v=PZ5dBAsUp3g&t=92s "JSDC 2017 - R101#D203 jscodeshift: Refactor JS w/ JS By Folio - YouTube"
-[2]: https://www.youtube.com/watch?v=3a-bbpf2CcI&t=21072s "[AU視聽館] Rust | COSCUP 2022 DAY02 - YouTube"
+[1]: https://www.youtube.com/watch?v=3a-bbpf2CcI&t=21072s "[AU視聽館] Rust | COSCUP 2022 DAY02 - YouTube"
+[2]: https://www.youtube.com/watch?v=PZ5dBAsUp3g&t=92s "JSDC 2017 - R101#D203 jscodeshift: Refactor JS w/ JS By Folio - YouTube"
 [3]: https://github.com/d8bfd8/d8bfd8/issues/new "New Issue · d8bfd8/d8bfd8"
