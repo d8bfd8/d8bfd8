@@ -12,3 +12,8 @@
   - lack of automation willingness leads to
     - little automation skill and
     - feeling overwhelmed
+
+## Invest in Automation
+
+Among automation, security and testing, invest in automation, because it’s the
+most-wildly applicable.
