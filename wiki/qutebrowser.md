@@ -10,6 +10,27 @@ with a lot of cookies. Kinda like Firefox Focus for desktop.
     global: never
 ```
 
+## Ergonomic
+
+qutebrowser accomplish tasks with less keystrokes. Take paste URL from
+clipboard for example, qutebrowser requires 2 keystrokes.
+
+```
+pp
+```
+
+While Firefox requires 4 keystrokes.
+
+```
+cmd-l cmd-v
+```
+
+Or with mouse 3 clicks
+
+```
+hover to location bar then right click then click paste and go
+```
+
 ## Per-Site Settings
 
 qutebrowser natively supports per site setting.
